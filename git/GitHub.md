@@ -1,4 +1,4 @@
-##### Submitting a patch
+#### Submitting a patch
 Once your code is ready to be submitted, you will need to submit a pull request with your changes.
 
 1. Update your branch and make sure you are rebased off the latest upstream/master
