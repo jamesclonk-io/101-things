@@ -1,4 +1,4 @@
-### git Workflow
+### Workflow
 
 Below text is copied from:
 https://www.openshift.com/wiki/github-workflow-for-submitting-pull-requests
