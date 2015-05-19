@@ -1,0 +1,14 @@
+{
+	"navbar": [
+		{"name": "Home", "link": "/"},
+		{"name": "101", "link": "/101"},
+		{"name": "404", "link": "/contact"},
+		{"name": "Error", "link": "/error"},
+		{"name": "Menu", "link": "#", "dropdown": [
+			{"name": "External 1", "link": "https://www.google.com"},
+			{"name": "External 2", "link": "www.hackurls.com"},
+			{"name": "Link", "link": "/link"},
+			{"name": "Another Link", "link": "/more_link"}
+		]}
+	]
+}
