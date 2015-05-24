@@ -2,13 +2,17 @@
 	"navigation": [
 		{"name": "Home", "link": "/"},
 		{"name": "101", "link": "#", "dropdown": [
-			{"name": "Links", "link": "/101/Links.md"},
+			{"name": "Links", "link": "/101/Links"},
 			{"name": "Divider", "link": "#"},
-			{"name": "git/Fork", "link": "/101/git/Fork.md"},
-			{"name": "git/GitHub", "link": "/101/git/GitHub.md"},
-			{"name": "git/Workflow", "link": "/101/git/Workflow.md"}
+			{"name": "git/Fork", "link": "/101/git/Fork"},
+			{"name": "git/GitHub", "link": "/101/git/GitHub"},
+			{"name": "git/Workflow", "link": "/101/git/Workflow"}
 		]},
-		{"name": "GOTY", "link": "/goty"},
+		{"name": "GOTY", "link": "#", "dropdown": [
+			{"name": "Links", "link": "/goty/2014"},
+			{"name": "Links", "link": "/goty/2013"},
+			{"name": "Links", "link": "/goty/2012"}
+		]},
 		{"name": "404", "link": "/contact"},
 		{"name": "Error", "link": "/error"},
 		{"name": "Menu", "link": "#", "dropdown": [
