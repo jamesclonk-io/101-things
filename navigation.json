@@ -2,6 +2,7 @@
 	"navbar": [
 		{"name": "Home", "link": "/"},
 		{"name": "101", "link": "/101"},
+		{"name": "GOTY", "link": "/goty"},
 		{"name": "404", "link": "/contact"},
 		{"name": "Error", "link": "/error"},
 		{"name": "Menu", "link": "#", "dropdown": [
