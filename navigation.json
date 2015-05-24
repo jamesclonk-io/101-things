@@ -9,9 +9,9 @@
 			{"name": "git/Workflow", "link": "/101/git/Workflow"}
 		]},
 		{"name": "GOTY", "link": "#", "dropdown": [
-			{"name": "Links", "link": "/goty/2014"},
-			{"name": "Links", "link": "/goty/2013"},
-			{"name": "Links", "link": "/goty/2012"}
+			{"name": "2014", "link": "/goty/2014"},
+			{"name": "2013", "link": "/goty/2013"},
+			{"name": "2012", "link": "/goty/2012"}
 		]},
 		{"name": "404", "link": "/contact"},
 		{"name": "Error", "link": "/error"},
