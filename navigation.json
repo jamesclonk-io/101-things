@@ -1,7 +1,13 @@
 {
-	"navbar": [
+	"navigation": [
 		{"name": "Home", "link": "/"},
-		{"name": "101", "link": "/101"},
+		{"name": "101", "link": "#", "dropdown": [
+			{"name": "Links", "link": "/101/Links.md"},
+			{"name": "Divider", "link": "#"},
+			{"name": "git/Fork", "link": "/101/git/Fork.md"},
+			{"name": "git/GitHub", "link": "/101/git/GitHub.md"},
+			{"name": "git/Workflow", "link": "/101/git/Workflow.md"}
+		]},
 		{"name": "GOTY", "link": "/goty"},
 		{"name": "404", "link": "/contact"},
 		{"name": "Error", "link": "/error"},
