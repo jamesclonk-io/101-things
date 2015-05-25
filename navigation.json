@@ -1,6 +1,6 @@
 {
 	"navigation": [
-		{"name": "Home", "link": "/"},
+		{"name": "News", "link": "/news"},
 		{"name": "101", "link": "#", "dropdown": [
 			{"name": "Links", "link": "/101/Links"},
 			{"name": "Divider", "link": "#"},
