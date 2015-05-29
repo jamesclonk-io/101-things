@@ -13,13 +13,9 @@
 			{"name": "2013", "link": "/goty/2013"},
 			{"name": "2012", "link": "/goty/2012"}
 		]},
-		{"name": "404", "link": "/contact"},
-		{"name": "Error", "link": "/error"},
-		{"name": "Menu", "link": "#", "dropdown": [
-			{"name": "External 1", "link": "https://www.google.com"},
-			{"name": "External 2", "link": "www.hackurls.com"},
-			{"name": "Link", "link": "/link"},
-			{"name": "Another Link", "link": "/more_link"}
-		]}
+		{"name": "Movie DB", "link": "https://www.google.com"},
+		{"name": "My Movies", "link": "/static/Movies"},
+		{"name": "Quake", "link": "/static/Quake"},
+		{"name": "Gallery", "link": "/static/Gallery"}
 	]
 }
