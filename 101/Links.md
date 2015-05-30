@@ -1,4 +1,4 @@
-### GitHub
+#### GitHub
 * https://github.com/JamesClonk
 
 ##### scala
@@ -86,6 +86,6 @@
 * https://github.com/ttscoff/MarkdownEditing
 * https://github.com/SublimeLinter/SublimeLinter3
 
-#### puppet
+##### puppet
 * https://www.digitalocean.com/community/tutorials/how-to-install-puppet-to-manage-your-server-infrastructure
 * https://www.digitalocean.com/community/tutorials/getting-started-with-puppet-code-manifests-and-modules

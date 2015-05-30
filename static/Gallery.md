@@ -15,4 +15,4 @@
 
 [http://www.jamesclonk.ch/gallery/](http://www.jamesclonk.ch/gallery/)
 
-Wer die Videos sehen will, muss mir eine Nachricht schicken. [:wink:](/images/wink.png ":wink:")
+Wer die Videos sehen will, muss mir eine Nachricht schicken. 😋
