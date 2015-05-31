@@ -13,7 +13,7 @@
 			{"name": "2013", "link": "/goty/2013"},
 			{"name": "2012", "link": "/goty/2012"}
 		]},
-		{"name": "Movie DB", "link": "https://jamesclonk.io/movies", "icon": "fa-database"},
+		{"name": "Movie DB", "link": "http://moviedb.jamesclonk.io", "icon": "fa-database"},
 		{"name": "My Movies", "link": "/static/Movies", "icon": "fa-film"},
 		{"name": "Quake", "link": "/static/Quake", "icon": "fa-gamepad"},
 		{"name": "Gallery", "link": "/static/Gallery", "icon": "fa-picture-o"}
