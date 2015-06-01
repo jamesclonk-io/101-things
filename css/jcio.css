@@ -1,0 +1,155 @@
+body {
+	padding-top: 70px;
+	padding-bottom: 30px;
+}
+
+img.coa {
+	z-index: 9001;
+	position: fixed;
+	top: 10px;
+	left: 5px;
+}
+
+div.quotes {
+	z-index: 9001;
+	position: fixed;
+	top: 10px;
+	right: 10px;
+	color: #f0c828;
+	width: 430px;
+	font-size: 11px;
+	text-align: right;
+}
+
+a.list-group-item {
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+span.news-item-badge {
+    color: #1a4162;
+    background-color: #f0c828;
+    margin-top: 4px;
+    margin-right: -8px;
+    margin-left: 5px;
+    float: right;
+}
+
+img.welcome-picture {
+	position: fixed;
+	bottom: 0px;
+}
+
+/* #Media Queries
+================================================== */
+@media only screen and (max-width: 1335px) {
+	div.quotes {
+		width: 270px;
+	}
+}
+@media only screen and (max-width: 1150px) {
+	div.quotes {
+		display: none;
+	}
+}
+
+@media only screen and (min-width: 1311px) and (max-width: 1350px) {
+	img.coa {
+		width: 85px;
+	}
+	.navbar .container {
+		margin-left: 75px;
+	}
+}
+@media only screen and (min-width: 1286px) and (max-width: 1310px) {
+	img.coa {
+		width: 75px;
+	}
+	.navbar .container {
+		margin-left: 70px;
+	}
+}
+@media only screen and (min-width: 1151px) and (max-width: 1285px) {
+	img.coa {
+		width: 60px;
+	}
+	.navbar .container {
+		margin-left: 55px;
+	}
+}
+@media only screen and (min-width: 1111px) and (max-width: 1150px) {
+	img.coa {
+		width: 85px;
+	}
+	.navbar .container {
+		margin-left: 75px;
+	}
+}
+@media only screen and (min-width: 1081px) and (max-width: 1110px) {
+	img.coa {
+		width: 75px;
+	}
+	.navbar .container {
+		margin-left: 70px;
+	}
+}
+@media only screen and (min-width: 992px) and (max-width: 1080px) {
+	img.coa {
+		width: 60px;
+	}
+	.navbar .container {
+		margin-left: 55px;
+	}
+}
+@media only screen and (min-width: 931px) and (max-width: 991px) {
+	img.coa {
+		width: 100px;
+	}
+	.navbar .container {
+		margin-left: 105px;
+	}
+	span.nav-name {
+		font-size: 8pt;
+	}
+}
+@media only screen and (min-width: 911px) and (max-width: 930px) {
+	img.coa {
+		width: 85px;
+	}
+	.navbar .container {
+		margin-left: 75px;
+	}
+	span.nav-name {
+		font-size: 8pt;
+	}
+}
+@media only screen and (min-width: 871px) and (max-width: 910px) {
+	img.coa {
+		width: 75px;
+	}
+	.navbar .container {
+		margin-left: 70px;
+	}
+	span.nav-name {
+		font-size: 8pt;
+	}
+}
+@media only screen and (min-width: 768px) and (max-width: 870px) {
+	img.coa {
+		width: 60px;
+	}
+	.navbar .container {
+		margin-left: 55px;
+	}
+	span.nav-name {
+		font-size: 7pt;
+	}
+}
+@media only screen and (max-width: 767px) {
+	img.coa {
+		width: 60px;
+	}
+	.navbar-brand {
+		margin-left: 55px;
+	}
+}
