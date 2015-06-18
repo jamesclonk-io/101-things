@@ -27,17 +27,28 @@ a.list-group-item {
 }
 
 span.news-item-badge {
-    color: #1a4162;
-    background-color: #f0c828;
-    margin-top: 4px;
-    margin-right: -8px;
-    margin-left: 5px;
-    float: right;
+	color: #1a4162;
+	background-color: #f0c828;
+	margin-top: 4px;
+	margin-right: -8px;
+	margin-left: 5px;
+	float: right;
 }
 
 img.welcome-picture {
 	position: fixed;
 	bottom: 0px;
+}
+
+a.no-underline {
+	text-decoration: none;
+}
+
+a.score {
+  color: #f0c828;
+}
+a.score:hover {
+  color: #1a4162;
 }
 
 /* #Media Queries
@@ -49,6 +60,11 @@ img.welcome-picture {
 }
 @media only screen and (max-width: 1150px) {
 	div.quotes {
+		display: none;
+	}
+}
+@media only screen and (min-width: 768px) and (max-width: 1150px) {
+	.searchbar {
 		display: none;
 	}
 }
