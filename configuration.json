@@ -5,19 +5,19 @@
 			"feeds": [
 				"https://news.ycombinator.com/rss",
 				"http://feeds.arstechnica.com/arstechnica/index?format=xml",
-				"http://www.reddit.com/r/programming/.rss",
+				"https://www.reddit.com/r/programming/.rss",
 				"http://rss.slashdot.org/Slashdot/slashdot",
 				"http://www.heise.de/newsticker/heise-atom.xml",
-				"http://www.reddit.com/r/technology/.rss",
-				"http://www.reddit.com/r/opensource/.rss",
-				"http://www.reddit.com/r/security/.rss",
+				"https://www.reddit.com/r/technology/.rss",
+				"https://www.reddit.com/r/opensource/.rss",
+				"https://www.reddit.com/r/security/.rss",
 				"http://feeds.newscientist.com/space",
 				"http://feeds.arstechnica.com/arstechnica/science?format=xml",
-				"http://www.reddit.com/r/space/.rss",
+				"https://www.reddit.com/r/space/.rss",
 				"http://www.osnews.com/files/recent.xml",
 				"http://feeds.feedburner.com/RockPaperShotgun?format=xml",
 				"http://feeds.arstechnica.com/arstechnica/gaming?format=xml",
-				"http://www.reddit.com/r/pcgaming/.rss"
+				"https://www.reddit.com/r/pcgaming/.rss"
 			]
 		}
 	}
