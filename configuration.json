@@ -1,7 +1,7 @@
 {
 	"configuration": {
 		"newsreader": {
-			"cache_duration": 900,
+			"cache_duration": 1200,
 			"feeds": [
 				"https://news.ycombinator.com/rss",
 				"http://feeds.arstechnica.com/arstechnica/index?format=xml",
@@ -11,13 +11,13 @@
 				"https://www.reddit.com/r/technology/.rss",
 				"https://www.reddit.com/r/opensource/.rss",
 				"https://www.reddit.com/r/security/.rss",
-				"http://feeds.newscientist.com/space",
 				"http://feeds.arstechnica.com/arstechnica/science?format=xml",
 				"https://www.reddit.com/r/space/.rss",
 				"http://www.osnews.com/files/recent.xml",
 				"http://feeds.feedburner.com/RockPaperShotgun?format=xml",
 				"http://feeds.arstechnica.com/arstechnica/gaming?format=xml",
-				"https://www.reddit.com/r/pcgaming/.rss"
+				"https://www.reddit.com/r/pcgaming/.rss",
+				"https://www.reddit.com/r/formula1/.rss"
 			]
 		}
 	}
