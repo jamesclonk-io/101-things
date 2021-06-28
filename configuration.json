@@ -1,7 +1,7 @@
 {
 	"configuration": {
 		"newsreader": {
-			"cache_duration": 1200,
+			"cache_duration": 1500,
 			"feeds": [
 				"https://news.ycombinator.com/rss",
 				"http://feeds.arstechnica.com/arstechnica/index?format=xml",
