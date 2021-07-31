@@ -1,6 +1,6 @@
 {
 	"navigation": [
-		{"name": "News", "link": "/news", "icon": "fa-rss-square"},
+		{"name": "News", "link": "/news", "icon": "fa-rss"},
 		{"name": "Blog", "link": "https://blog.jamesclonk.io", "icon": "fa-newspaper-o"},
 		{"name": "101", "link": "#", "icon": "fa-code", "dropdown": [
 			{"name": "Links", "link": "/101/Links"},
